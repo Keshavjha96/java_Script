@@ -1,2 +1,3 @@
-const all_heroes=[...Marvel_heroes,...DC_heroes];
-// console.log(all_heroes);
+JsUser.email="Keshav.jha19294@gmail.com"
+// Object.freeze(JsUser) //freeze the object so that we cannot change the properties of the object
+// // console.log(JsUser);
